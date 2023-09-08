@@ -1,0 +1,52 @@
+[
+  {
+    "category": "historia",
+    "id":1,
+    "dificulty": "easy",
+    "preguntas": [
+        {
+          "id":1,
+        "question": "¿Qué evento inició la Primera Guerra Mundial?",
+        "correct_answer": "El asesinato del Archiduque Franz Ferdinand de Austria",
+        "incorrect_answers": [
+          "El hundimiento del Titanic",
+          "La invasión de Polonia por Alemania",
+          "La Revolución Francesa"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "¿En qué año se produjo la Guerra de los Cien Años?",
+        "correct_answer": "1337",
+        "incorrect_answers": ["1066", "1415", "1642"]
+      },
+      {
+        "id": 3,
+        "question": "¿En qué año se produjo el ataque a Pearl Harbor?",
+        "correct_answer": "1941",
+        "incorrect_answers": ["1939", "1942", "1945"]
+      }
+    ]
+  },
+  {
+    "category": "historia",
+    "dificulty": "medium",
+    "preguntas": [
+      {
+        "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+        "correct_answer": "1945",
+        "incorrect_answers": ["1939", "1941", "1943"]
+      },
+      {
+        "question": "¿Cuál fue el nombre de la primera expedición de Cristóbal Colón?",
+        "correct_answer": "La Santa María",
+        "incorrect_answers": ["La Pinta", "La Niña", "La Santísima Trinidad"]
+      },
+      {
+        "question": "¿Cuál fue el primer país en enviar un objeto hecho por el hombre a la luna?",
+        "correct_answer": "Estados Unidos",
+        "incorrect_answers": ["Unión Soviética", "China", "Japón"]
+      }
+    ]
+  }
+]
